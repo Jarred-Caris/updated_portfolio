@@ -1,3 +1,7 @@
+body {
+    background-image: linear-gradient(to bottom left, #0483fa, #fd0b0b);
+}
+
 .container-fluid {
     border-radius: 40px;
     background-color: aliceblue;
@@ -9,4 +13,21 @@
     border-radius: 40px;
     margin: 10px;
     padding: 10px;
+}
+
+
+.jumbotron {
+    background-color: black;
+    padding: 20px;
+    margin: 60px;
+    border-radius: 60px;
+    color: aliceblue;
+    
+}
+
+.carousel  {
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+
 }
