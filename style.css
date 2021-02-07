@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(to bottom left, #0483fa, #fd0b0b);
+    background-image: linear-gradient(to right, #000000, #e0dbdb);
 }
 
 .container-fluid {
@@ -17,7 +17,7 @@ body {
 
 
 .jumbotron {
-    background-color: black;
+    background-image: linear-gradient(to bottom, #010508, #072cfd);
     padding: 20px;
     margin: 60px;
     border-radius: 60px;
@@ -31,3 +31,15 @@ body {
     border-radius: 20px;
 
 }
+.card {
+    color: black;
+}
+
+.col-sm {
+    padding-top: 10px;
+}
+
+.carousel-control {
+    color: black;
+}
+
